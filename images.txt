@@ -1,1 +1,3 @@
-kspider:latest
+kkangert/kspider:latest
+kkangert/kspider-ui:latest
+mysql:8.0.38
