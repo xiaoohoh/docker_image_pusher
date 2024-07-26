@@ -1,1 +1,1 @@
-kkangert/kspider:latest
+kspider:latest
